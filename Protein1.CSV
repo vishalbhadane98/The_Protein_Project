@@ -1,0 +1,37 @@
+ProductName,ManufacterName,Actual Protein/100g,Labelled Protein/100g,Mislabelled,Arsenic,Cadium (ppm),Lead,Copper,Recommend Buying?
+Protein super herbs women,Himalayan Organics,65.7,68.4,No,BLQ,BLQ,0.086,1.61,Yes with Caution
+High protein nutrishake vanilla ,Oriflame,43.3,41.1,No,BLQ,BLQ,0.04,4.41,Not Bad
+Nutrabox whey,Nutrabox,58.2,72.7,"Yes,severe",BLQ,BLQ,BLQ,1.51,Yes
+GNC whey,GNC,63.9,68.57,"Yes,mild",BLQ,BLQ,0.038,2.94,Not Bad
+Elite 100% whey,Dymatize,73.3,71,No,BLQ,0.029,BLQ,2.87,Not Bad
+Whey protein,One Science,68.4,83,"Yes,severe",BLQ,BLQ,BLQ,1.92,Yes
+Whey gold,Muscle Blaze,76.1,82,"Yes,mild",BLQ,0.043,BLQ,3.65,Not Bad
+Whey protein,Muscle Blaze,71.7,76,"Yes,mild",BLQ,0.047,BLQ,4.43,Not Bad
+Vegan protein,Origin,63.6,64.1,No,BLQ,BLQ,BLQ,4.57,Yes
+Ultra-soy protein,Forever Life,50.7,52,No,0.048,BLQ,0.033,30.61,Not Bad
+Nutrella whey,Patanjali Ayurved,73.2,80,"Yes,mild",BLQ,0.028,0.028,11.66,Yes with Caution
+Whey protein,Ultimate Nutrition,71.7,83,"Yes,severe",BLQ,BLQ,BLQ,2.38,Not Bad
+Iso veda protein,Patanjali Ayurved,80.3,90,"Yes,severe",BLQ,BLQ,0.29,BLQ,Yes with Caution
+Protinex,Danone,34.2,34,No,0.063,BLQ,BLQ,5.34,Not Bad
+Whey isolate,Optimum nutrition,80.7,81,No,BLQ,BLQ,0.04,1.49,Not Bad
+Quista pro whey,Himalaya Wellness,65.2,64.7,No,BLQ,BLQ,BLQ,2.97,Yes with Caution
+B-protin,British Biologicals,10.4,40,"Yes,severe",BLQ,0.026,0.1,2.19,No
+Resource high protein,Nestle Ltd,48.5,45,No,BLQ,BLQ,0.071,BLQ,Not Bad
+Ensure plus,Abbott Ltd,19.6,19,No,BLQ,BLQ,0.1,6.6,No
+Premium protein matrix,Syntha 6,46.3,47,No,BLQ,BLQ,0.19,3.76,Not Bad
+Nitrotech whey,Muscletech,76.9,65.2,No,BLQ,BLQ,0.11,2.4,Not Bad
+Gold standard whey,Optimum nutrition,75.8,79,No,BLQ,BLQ,0.29,2.97,Not Bad
+Musclefood whey protein,Dr Morepen,68.6,64.26,No,BLQ,BLQ,0.3,2.19,Not Bad
+Frotein whey,Big Muscles,26.1,76.5,"Yes,severe",BLQ,BLQ,0.27,BLQ,No
+Vegan protein ,Big Muscles,19.4,81.3,"Yes,severe",BLQ,0.042,0.31,5.73,No
+Whey essentials,Fast & Up,68.6,75,"Yes,mild",BLQ,BLQ,0.25,3.29,Not Bad
+My first protein,Healthkart,33.4,32,No,0.075,0.037,0.32,4.48,Not Bad
+Protein powder,Vestige,79,82,No,0.085,BLQ,0.23,9.34,Not Bad
+Protein plus,Bakson's Homeo,8,16.7,"Yes,mild",0.031,BLQ,0.26,16.8,No
+Protein powder,Elements,76.4,80,No,BLQ,0.026,0.28,8.8,No
+Impact whey,My protein,71,76,No,BLQ,BLQ,0.23,1.49,Not Bad
+Personalized protein powder,Herbalife Nutrition,84.5,82.7,No,BLQ,0.029,0.26,11.27,Yes with Caution
+Formula 1 shake,Herbalife Nutrition,35.7,36,No,BLQ,BLQ,0.23,20.8,Yes with Caution
+Protein & herbs,Ozivia,65.5,71.7,"Yes,mild",BLQ,BLQ,0.27,1.71,Yes with Caution
+Weight plus protein,Dr. Vaidya's,20.5,25.81,"Yes,mild",BLQ,BLQ,0.22,5.33,Not Bad
+Nutrilite plant protein,Amway,84.7,80,No,BLQ,BLQ,0.23,10.83,No
